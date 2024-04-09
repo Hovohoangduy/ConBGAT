@@ -1,0 +1,14 @@
+FEATURES:
+  add_embs: true
+  add_eweights: true
+  add_fudge: false
+  add_geom: true
+  add_hist: true
+  add_visual: true
+  num_polar_bins: 8
+GRAPHS:
+  data_type: img
+  edge_type: fully
+  node_granularity: gt
+LOADER:
+  src_data: FUNSD
