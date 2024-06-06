@@ -6,10 +6,14 @@
 <img src="ConBGAT img/Model.png">
 
 #### Greap Modeling processing
-<img src="ConBGAT img/fig4_1.jpg">
-<img src="ConBGAT img/fig4_2.jpg">
+<div style="display: flex; justify-content: space-around;">
+  <img src="ConBGAT img/fig4_1.jpg">
+  <img src="ConBGAT img/fig4_2.jpg">
+</div>
 
 ## Results
-<img src="ConBGAT img/fig6_1.jpg">
-<img src="ConBGAT img/fig6_2.png">
-<img src="ConBGAT img/fig6_3.png">
+<div style="display: flex; justify-content: space-around;">
+  <img src="ConBGAT img/fig6_1.jpg">
+  <img src="ConBGAT img/fig6_2.png">
+  <img src="ConBGAT img/fig6_3.png">
+</div>
