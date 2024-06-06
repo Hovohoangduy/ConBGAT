@@ -11,5 +11,5 @@
 
 ## Results
 <img src="ConBGAT img/fig6_1.jpg">
-<img src="ConBGAT img/fig6_2.jpg">
-<img src="ConBGAT img/fig6_3.jpg">
+<img src="ConBGAT img/fig6_2.png">
+<img src="ConBGAT img/fig6_3.png">
